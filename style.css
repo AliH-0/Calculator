@@ -1,0 +1,42 @@
+#container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+body {
+    background-color: gray;
+}
+#container button {
+    
+    padding: 20px;
+}
+#display{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+#row1 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#row2 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+ 
+}
+#row3 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+}
+#row4 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+}
+
